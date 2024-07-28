@@ -9,7 +9,7 @@ I'm a **Software Developer 💻 @[IBM](https://www.ibm.com/cloud)** based in Ind
 
 ### 🚀 Quick Stats
 
-![Anam's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamar7&show_icons=true&theme=highcontrast&hide=B,B%2B)
+<img src="https://github-readme-stats.vercel.app/api?username=iamar7&show_icons=true&theme=highcontrast" width="400" height="200" />
 
 
 
